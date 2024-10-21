@@ -10,7 +10,7 @@ GitHub de Gonzalo Gabriel Fernández Méndez<br><br>Estudiante de tercer año de
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SuperPetu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SuperPetu&theme=gruvbox&hide_border=false)<br/>
-![]https://github-readme-stats.vercel.app/api/top-langs/?username=SuperPetu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperPetu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SuperPetu&limit=5&theme=dark&combine_all_yearly_contributions=true)
